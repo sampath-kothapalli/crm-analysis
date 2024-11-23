@@ -3,8 +3,9 @@
 This project focuses on analyzing customer behavior, retention, and acquisition trends in an e-commerce dataset. It employs techniques like RFM analysis, cohort analysis, segmentation, and visualization to uncover actionable insights, helping businesses improve their customer lifetime value (CLV) and optimize retention strategies.
 
 ## 📄 **Project Overview**
-
-The project leverages advanced exploratory data analysis (EDA) to explore customer purchasing patterns, retention, and acquisition behavior. By segmenting customers into distinct groups and analyzing key metrics, the study provides insights to guide strategic business decisions for enhancing customer experience and maximizing profitability.
+- Performed comprehensive CRM data analysis, employing data preprocessing and EDA techniques to refine customer interaction datasets, and implemented RFM scoring for dynamic customer segmentation, revealing actionable insights on purchasing patterns and behavior.
+- Utilized advanced analytics to transform CRM data into strategic insights, creating customer-centric metrics such as recency, frequency, and monetary value, alongside unique purchase details, to drive targeted marketing strategies and improve customer engagement and loyalty.
+- Led a data-driven CRM analysis project, integrating feature engineering and RFM analysis to categorize customers by transaction patterns, and developed predictive models to identify potential high-value customers, enhancing personalized communication and optimizing sales strategies.
 
 ## 📊 **Key Features**
 
