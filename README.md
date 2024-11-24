@@ -7,28 +7,12 @@ This project focuses on analyzing customer behavior, retention, and acquisition 
 - Utilized advanced analytics to transform CRM data into strategic insights, creating customer-centric metrics such as recency, frequency, and monetary value, alongside unique purchase details, to drive targeted marketing strategies and improve customer engagement and loyalty.
 - Led a data-driven CRM analysis project, integrating feature engineering and RFM analysis to categorize customers by transaction patterns, and developed predictive models to identify potential high-value customers, enhancing personalized communication and optimizing sales strategies.
 
-## 📊 **Key Features**
-
-- **Customer Segmentation:** 
-  - RFM analysis to segment customers into categories like "Loyal," "At-Risk," and "New Customers."
-  - CLV-based segmentation to identify high-value customers.
-
-- **Behavioral Analysis:** 
-  - Monthly customer acquisition trends based on geographic and cohort analyses.
-  - Purchase patterns and revenue distribution across regions.
-
-- **Cohort Analysis:** 
-  - Retention rates over time and customer lifecycle behavior.
-
-- **Advanced Visualizations:** 
-  - Heatmaps, line charts, and bar plots to represent retention trends and customer distribution.
-
-## 📈 **Data Insights**
+## 📈 **Key Data Insights**
 
 1. **Customer Segmentation:**
    - Identified 1,306 loyal customers contributing significantly to monthly revenue.
    - At-risk customers represent a key area for retention strategies.
-
+   - 
 2. **Geographic Trends:**
    - Majority of new acquisitions were concentrated in California and New York.
 
@@ -64,18 +48,10 @@ This project focuses on analyzing customer behavior, retention, and acquisition 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - Jupyter Notebook/Google Colab
 - Data Preprocessing and Feature Engineering
-- Advanced Visualization Techniques
+- Advanced Visualization Techniques, RFM Analysis, CLV Segmentation and Cohort Analysis
 
 ## **Files Included**
 
 - `Capstone_Project.ipynb`: Jupyter Notebook containing the complete analysis and visualizations.
 - `Ecom_CRM_analysis.csv`: Dataset used for analysis.
 - `README.md`: Documentation for the project.
-
-## **Project Snapshot**
-
-![Project Cover Image](path/to/cover/image.png)
-
-## **Acknowledgments**
-
-This project was inspired by real-world challenges in e-commerce analytics. Special thanks to publicly available datasets and open-source tools that made this analysis possible.
