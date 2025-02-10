@@ -2,10 +2,29 @@
 
 This project focuses on analyzing customer behavior, retention, and acquisition trends in an e-commerce dataset. It employs techniques like RFM analysis, cohort analysis, segmentation, and visualization to uncover actionable insights, helping businesses improve their customer lifetime value (CLV) and optimize retention strategies.
 
-## 📄 **Project Overview**
-- Performed comprehensive CRM data analysis, employing data preprocessing and EDA techniques to refine customer interaction datasets, and implemented RFM scoring for dynamic customer segmentation, revealing actionable insights on purchasing patterns and behavior.
-- Utilized advanced analytics to transform CRM data into strategic insights, creating customer-centric metrics such as recency, frequency, and monetary value, alongside unique purchase details, to drive targeted marketing strategies and improve customer engagement and loyalty.
-- Led a data-driven CRM analysis project, integrating feature engineering and RFM analysis to categorize customers by transaction patterns, and developed predictive models to identify potential high-value customers, enhancing personalized communication and optimizing sales strategies.
+## 🛠 **Technologies Used**
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn, lifetimes)
+- Jupyter Notebook/Google Colab
+
+## **Project Type**
+- Data Preprocessing and Feature Engineering
+- Advanced Visualization Techniques, RFM Analysis, CLV Segmentation and Cohort Analysis
+
+## **Data Desctiption**
+| Column Name  | Description |
+|-------------|-------------|
+| **InvoiceNo** | Invoice number that consists of 6 digits. If this code starts with the letter 'C', it indicates a cancellation. |
+| **StockCode** | Product code that consists of 5 digits. |
+| **Description** | Product name. |
+| **Quantity** | The quantities of each product per transaction. |
+| **InvoiceDate** | This represents the day and time when each transaction was generated. |
+| **UnitPrice** | Product price per unit. |
+| **CustomerID** | Customer number that consists of 5 digits. Each customer has a unique customer ID. |
+| **Country** | Name of the country where each customer resides. |
+
+## Solution Approach
+
 
 ## 📈 **Key Data Insights**
 
@@ -35,16 +54,3 @@ This project focuses on analyzing customer behavior, retention, and acquisition 
 4. **Data-Driven Campaigns:**
    - Leverage RFM analysis to run targeted promotions for high-value segments.
    - Use geographic insights to tailor regional marketing campaigns.
-
-## 🛠 **Technologies Used**
-
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- Jupyter Notebook/Google Colab
-- Data Preprocessing and Feature Engineering
-- Advanced Visualization Techniques, RFM Analysis, CLV Segmentation and Cohort Analysis
-
-## **Files Included**
-
-- `Capstone_Project.ipynb`: Jupyter Notebook containing the complete analysis and visualizations.
-- `Ecom_CRM_analysis.csv`: Dataset used for analysis.
-- `README.md`: Documentation for the project.
