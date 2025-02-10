@@ -1,0 +1,13 @@
+prefix=D:/ml/github/crm-analysis/venv/Library
+exec_prefix=D:/ml/github/crm-analysis/venv/Library
+libdir=D:/ml/github/crm-analysis/venv/Library/lib
+sharedlibdir=D:/ml/github/crm-analysis/venv/Library/lib
+includedir=D:/ml/github/crm-analysis/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
